@@ -1,5 +1,5 @@
 # esp-mqtt-ota-rgb-led-light-new-pwm
-ESP8266 MQTT control of RGB Led strip with OTA updates
+ESP8266 MQTT control of RGB Led strip with OTA updates and new implementation of PWM from: https://github.com/StefanBruens/ESP8266_new_pwm
 
 Code was written for this product: http://www.aliexpress.com/item/rgb-strip-WiFi-controller-1-port-control-15-rgb-lights-communicate-with-Android-phone-to-dim/32301423622.html
 
