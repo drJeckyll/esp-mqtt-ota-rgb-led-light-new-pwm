@@ -1,3 +1,7 @@
+# THIS CODE IS OBSOLETE AND WILL NOT BE UPDATED ANYMORE
+Please use new repo here: https://git.jeckyll.net/published/personal/esp8266/esp-mqtt-ota-rgb-led-light-new-pwm
+
+
 # esp-mqtt-ota-rgb-led-light-new-pwm
 ESP8266 MQTT control of RGB Led strip with OTA updates and new implementation of PWM from: https://github.com/StefanBruens/ESP8266_new_pwm
 
